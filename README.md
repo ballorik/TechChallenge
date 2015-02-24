@@ -6,6 +6,8 @@ See [`scripts/guardians.coffee`](scripts/guardians.coffee) for full script.
 
 ## Installation
 
+Place the **guardians.coffee** in your `\hubot\node_modules\hubot-scripts\src\scripts` folder
+
 Add **guardians.coffee** to your `hubot-scripts.json`:
 
 ```json
