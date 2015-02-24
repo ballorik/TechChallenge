@@ -1,0 +1,46 @@
+Technical Challenge Work Log
+
+Thursday - Sunday:
+    - Multiple attempts to get hubot, along with various adapters and chat programs
+        (AIM, Jabbr, Google Hangouts, IRC) up and running met with failure
+        - hubot installed via the directions in the git repository, but not responding to any
+            requests
+            - situation resolved by installing coffee-script (npm install -g coffee-script)
+        - Google Hangouts adapter failing to load (python scripts timing out)
+            - unresolved
+        - AIM adapter failing to connect ("Invalid nick or password" message)
+            - unresolved
+        - Jabbr adapter connected but hubot would not respond to commands
+            - unresolved
+        - IRC chat program installation would not complete for various reasons
+            - unresolved
+
+Sunday Evening:
+    - Installation of hubot successful and responding to commands
+    - Hubot configured to run with the Campfire adapter
+        - two free accounts created (one for me and one for hubot)
+        - three environmental variables created
+            - HUBOT_CAMPFIRE_ACCOUNT -> the account name of the user who created the chat room (this name 
+                precedes the "campfirenow.com" in the URL)
+            - HUBOT_CAMPFIRE_TOKEN -> value is obtained by logging in to the hubot account and visiting 
+                the MyInfo page 
+            - HUBOT_CAMPFIRE_ROOMS -> value is the number displayed at the end of the URL when the creator
+                enters the chat room
+    - Hubot connects and responds to the "hubot help" command
+    - Coding of "digsite.coffee" begins
+    
+Monday Evening:
+    - Multiple attempts to troubleshoot errors in the digsite script 
+        - errors seem to revolve around attempts to spawn a child process for command-line 
+            execution (dig, dir, etc)
+            - ERROR Error: spawn dir ENOENT
+            - unresolved
+    - Coding of "guardians.coffee" begins
+        - script includes both hear and respond functionality for sending quotes
+            - respond initiator: "hubot quote"
+            - hear initiator: "guardian"
+    - Coding complete
+    - Testing of guardians.coffee
+    - All code uploaded to the GIT repository
+
+        
