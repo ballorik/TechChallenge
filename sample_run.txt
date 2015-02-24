@@ -1,0 +1,20 @@
+	
+8:55 PM
+Paul M.	hubot quote
+Hubot M.	Peter Quill: Well that's just as fascinating as the first 89 times. What is wrong with Giving Tree here?
+
+Paul M.	hubot quote
+Hubot M.	Drax the Destroyer: NOTHING goes over my head!... My reflexes are too fast, I would catch it.
+
+Paul M.	guardian
+Hubot M.	Did someone ask for a Guardians of the Galaxy quote?
+Gamora: ...Who put the sticks up their butts?
+
+Paul M.	is there a guardian here?
+Hubot M.	Did someone ask for a Guardians of the Galaxy quote?
+Rocket Raccoon: Ain't no thing like me, except me!
+
+9:10 PM
+Paul M.	hubot guardians quote
+Hubot M.	Did someone ask for a Guardians of the Galaxy quote?
+Rocket Raccoon: Well now I'm standing. Happy? We're all standing now. Bunch of jackasses, standing in a circle.
