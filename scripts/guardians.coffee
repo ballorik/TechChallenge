@@ -3,9 +3,7 @@
 #   enters the text "hubot guardians quote" in a Campfire chat when the hubot bot is in the room. 
 #
 # Configuration:
-#   HUBOT_CAMPFIRE_TOKEN
-#   HUBOT_CAMPFIRE_ROOMS
-#   HUBOT_CAMPFIRE_ACCOUNT
+#   No additional configuration needed
 #
 # Commands:
 #   "hubot guardians quote" - selects a random entry from the quotes array and displays it
